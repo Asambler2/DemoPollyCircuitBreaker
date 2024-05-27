@@ -1,0 +1,6 @@
+@DemoPollyCircuitBreaker_HostAddress = http://localhost:5015
+
+GET {{DemoPollyCircuitBreaker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
